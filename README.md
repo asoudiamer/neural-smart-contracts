@@ -1,3 +1,5 @@
+[Project Banner](neural-smart-contracts.png)
+
 # neural-smart-contracts
 Proposal for integrating lightweight AI into Ethereum smart contracts
 # Neural Smart Contracts
